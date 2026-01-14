@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227327125872",
+    "project_id": "situmbuh-dac3a",
+    "storage_bucket": "situmbuh-dac3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227327125872:android:6e4f6f5fc414d5143d47b5",
+        "android_client_info": {
+          "package_name": "com.example.situmbuh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzv6NLGFyOdF1ulvFajPoEmqHmtK5aezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
