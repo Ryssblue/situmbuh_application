@@ -1,6 +1,6 @@
 # situmbuh_application
 
-A new Flutter project.
+Aplikasi yang dibuat menggunakan Flutter dan Database menggunakan Firebase
 
 ## Getting Started
 
